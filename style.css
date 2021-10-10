@@ -16,12 +16,6 @@ h2{
   font-weight: 400;
 }
 
-.container{
-  width: 1280px;
-  margin: auto;
-}
-
-
 #header{
   display: flex;
   justify-content: space-between;
@@ -99,7 +93,7 @@ input:focus{
 }
 
 #box{
-  margin: 15px;
+  margin: 15px 0;
   background-image: url('back.jpg');
   background-position: center center;
   background-size: cover;
