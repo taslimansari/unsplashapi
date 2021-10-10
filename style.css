@@ -124,6 +124,14 @@ a{
   color: #f4f4f4;
 }
 
+#box h2{
+  margin: 10px;
+}
+
+#box p{
+  line-height: 1.7em;
+}
+
 /* Media queris */
 
 @media(max-width:1280px){
