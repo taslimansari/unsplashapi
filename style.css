@@ -49,7 +49,6 @@ h2{
 }
  
 input:focus{
-  box-shadow: 0 0 5px #3a4146;
   border: 1px solid #3a4146;
 }
 
