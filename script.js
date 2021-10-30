@@ -1,15 +1,6 @@
 dayNightTheme = () => {
   let date = new Date();
   let hour = date.getHours();
-
-//   if(hour >= 7 && hour < 19){
-//     document.body.style.backgroundColor = 'white';
-//     document.body.style.color = 'grey';
-//   }
-//   else{
-//     document.body.style.backgroundColor = 'grey';
-//     document.body.style.color = 'white';
-//   }
 }
 
 window.addEventListener('load', dayNightTheme);
